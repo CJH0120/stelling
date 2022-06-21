@@ -1,4 +1,4 @@
-## SpringBoot TeamProject
+# SpringBoot TeamProject
 ## Stelling(스텔링)
 
 ### Stelling(스텔링)
