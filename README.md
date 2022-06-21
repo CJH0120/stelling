@@ -1,5 +1,5 @@
 # SpringBoot TeamProject
-## Stelling(스텔링)
+
 
 ### Stelling(스텔링)
 스텔링은? 누구에게나 작가가 될 수 있는 기회를 제공해준다.
